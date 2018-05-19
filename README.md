@@ -9,19 +9,22 @@ Use pip install to install the required packages and libraries. Also, a twilio a
 ## Example:
 Run the program, enter your category, enter the item to be searched. 
 
-### Here is an example of attempting to find a free couch.
+## Here is an example of attempting to find a free couch.
+
 
 ![Alt text](/first.png)
 ![Alt text](/second.png)
 ![Alt text](/third.png)
 ![Alt text](/fourth.png)
 
-### Here is an example of attempting to find a honda civic.
+## Here is an example of attempting to find a honda civic.
+
 
 ![Alt text](/fifth.png)
 ![Alt text](/sixth.png)
 
-### Also, the links can be retrieved on my phone.
+## Also, the links can be retrieved on my phone.
+
 
 ![Alt text](/seventh.png)
 
